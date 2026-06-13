@@ -1,0 +1,5 @@
+smart-api-health-monitor/
+│
+├── main.py
+├── requirements.txt
+└── README.md
